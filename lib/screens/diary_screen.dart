@@ -328,7 +328,7 @@ class DiaryScreen extends StatelessWidget {
                             totalCaloriesAmount: 0,
                           ),
 
-                          SizedBox(height: 10,),
+                          SizedBox(height: 11,),
 
                           //breackafst
                           FoodCard(
